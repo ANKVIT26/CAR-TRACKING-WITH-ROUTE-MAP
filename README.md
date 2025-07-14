@@ -51,3 +51,9 @@ Google Collab or Jupyter Notebook
 Python 3.7+
 Sufficient storage for video processing and image archival
 GPU support recommended for faster PyTorch operations
+
+
+<img width="677" height="590" alt="image" src="https://github.com/user-attachments/assets/994fa8c6-e76c-425e-b1b9-b867447b20d1" />
+<img width="1184" height="762" alt="image" src="https://github.com/user-attachments/assets/026bb7da-5550-4d89-b745-5545f3319ab1" />
+
+
