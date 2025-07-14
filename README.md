@@ -41,8 +41,8 @@ apt-get install tesseract-ocr libtesseract-dev
 
 # Output Files
 
-detected_plates/ - Directory containing captured plate images
-route_map.html - Interactive route visualization
+detected_plates/ - Directory containing captured plate images    
+route_map.html - Interactive route visualization      
 vehicle_tracking.db - SQLite database with detection logs
 
 # System Requirements
